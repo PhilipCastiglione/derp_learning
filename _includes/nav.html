@@ -4,7 +4,7 @@
       {% if page.url == '/' %}
         Home
       {% else %}
-        <a href="/">
+        <a href="{{ '/' | relative_url }}">
           Home
         </a>
       {% endif %}
@@ -13,7 +13,7 @@
       {% if page.url == '/submit.html' %}
         Submit
       {% else %}
-        <a href="{% link derp_lerning/submit.html %}">
+        <a href="{{ '/submit' | relative_url }}">
           Submit
         </a>
       {% endif %}
@@ -22,7 +22,7 @@
       {% if page.url == '/about.html' %}
         About
       {% else %}
-        <a href="{% link derp_lerning/about.md %}">
+        <a href="{{ '/about' | relative_url }}">
           About
         </a>
       {% endif %}

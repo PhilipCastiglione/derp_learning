@@ -16,6 +16,6 @@ An image from an external source:
 
 And an image contained in `/assets`:
 
-![asset contained beaver](/assets/beaver.jpg)
+![asset contained beaver](assets/images/beaver.jpg)
 
 Pretty **rad**!
