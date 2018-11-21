@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  This is the Test Post Title
+title:  This Was the First Post
 author: Philip Castiglione
 excerpt_separator: <!--more-->
 ---
 
-This post is lovely.
-
-It has some content.
+This is how you make a post. You write some markdown. Isn't that neat!
 <!--more-->
 
 Including a [link](http://www.google.com).

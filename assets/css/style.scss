@@ -1,0 +1,48 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ------- FOOTER ------- */
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.content-wrapper {
+  box-sizing: border-box;
+  min-height: 100%;
+  padding: 0 0 50px;
+  position: relative;
+}
+
+footer {
+  bottom: 0;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+/* ------- HOME PAGE ------- */
+.post-title {
+  color: #b5e853;
+  white-space: nowrap;
+}
+
+.post-title:hover {
+  color: #63c0f5;
+  position: relative;
+  right: 46px;
+}
+
+.post-title:hover::before {
+  content: "🔗";
+}
+
+.local-link {
+  text-decoration: none;
+}

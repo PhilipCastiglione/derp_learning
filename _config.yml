@@ -1,1 +1,2 @@
 theme: jekyll-theme-hacker
+permalink: /derp_lerning/:categories/:year/:month/:day/:title:output_ext
