@@ -21,7 +21,7 @@ of the spectrum. Strap in and warm up your vision portholes...
 ![crab](assets/images/crab.jpg)
 ![dog](assets/images/dog.jpg)
 ![person](assets/images/person.jpg)
-![frog2](assets/images/frog2.jpg)
+![ostrich](assets/images/ostrich.jpg)
 ![spider](assets/images/spider.jpg)
 ![snake](assets/images/snake.jpg)
 ![person2](assets/images/person2.jpg)
