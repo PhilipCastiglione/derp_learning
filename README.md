@@ -14,8 +14,9 @@ inclusion as a post. Some reference to the original source is required.
 Big:
 
 * More content!
+* Cross platform/browser testing
 * Get people to use it
-* Track if people are using it
+* Measure usage or something
 
 Small:
 
