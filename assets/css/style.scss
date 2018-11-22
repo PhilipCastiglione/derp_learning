@@ -28,18 +28,11 @@ footer {
 }
 
 /* ------- HOME PAGE ------- */
-.post-title {
-  color: #b5e853;
-  white-space: nowrap;
-}
-
 .post-title:hover {
   color: #63c0f5;
-  position: relative;
-  right: 46px;
 }
 
-.post-title:hover::before {
+.post-title:hover::after {
   content: "🔗";
 }
 
@@ -60,4 +53,5 @@ footer {
   border: 3px solid #b5e853;
   color: #b5e853;
   background-color: #666;
+  border-radius: none;
 }
