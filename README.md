@@ -19,7 +19,5 @@ Big:
 
 Small:
 
-* preview image when shared
 * submit page fields and button look dumb on iOS
-* youtube embed for locomotion is too wide on mobile
 
