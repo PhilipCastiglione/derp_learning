@@ -40,7 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 * More content!
 * README
-* Create a way for other people to contribute
 * Get people to use it
 * Track if people are using it
 

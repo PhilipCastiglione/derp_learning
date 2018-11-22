@@ -3,4 +3,19 @@ layout: default
 ---
 
 <h1>Submit A Derp</h1>
-<p>Coming soon...</p>
+
+<form
+  action="mailto:derp_learning@philipcastiglione.me?subject=New Derp Submission"
+  method="POST"
+  enctype="multipart/form-data"
+>
+  <h3>Name</h3>
+  <input class="submit-field" type="text" size="42" name="Name"/>
+  <br />
+  <br />
+  <h3>Derp</h3>
+  <textarea class="submit-field" name="Derp" rows="8" cols="40"></textarea>
+  <br />
+  <br />
+  <input class="submit-button" type="submit" value="Email This Form">
+</form>

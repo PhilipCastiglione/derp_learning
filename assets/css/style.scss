@@ -46,3 +46,18 @@ footer {
 .local-link {
   text-decoration: none;
 }
+
+/* ------- SUBMIT ------- */
+.submit-field {
+  width: 100%;
+  font: inherit;
+}
+
+.submit-button {
+  display: block;
+  margin: 0 auto;
+  font: inherit;
+  border: 3px solid #b5e853;
+  color: #b5e853;
+  background-color: #666;
+}
