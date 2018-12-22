@@ -9,6 +9,10 @@ It uses Jekyll (the "Hacker" theme 😎), GitHub Pages for site generation, depl
 If you have found an instance of machine learning (ideally deep learning) behaving badly you can create an issue suggesting its
 inclusion as a post. Some reference to the original source is required.
 
+## Run Locally
+
+bundle exec jekyll serve
+
 ## TODO
 
 Big:
