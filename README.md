@@ -17,10 +17,7 @@ bundle exec jekyll serve
 
 Big:
 
-* More content!
 * Cross platform/browser testing
-* Get people to use it
-* Measure usage or something
 
 Small:
 
